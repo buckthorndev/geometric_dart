@@ -1,6 +1,15 @@
-// TODO: Put public facing types in this file.
+import 'line/line.dart';
+import 'angle/angle.dart';
 
-/// Checks if you are awesome. Spoiler: you are.
-class Awesome {
-  bool get isAwesome => true;
+class Geometric {
+  /// Angle class for doing angle related operations
+  final Angle angle;
+
+  /// line class for doing line related operations
+  final Line line;
+
+  /// Geometric
+  Geometric()
+      : angle = Angle(),
+        line = Line();
 }
