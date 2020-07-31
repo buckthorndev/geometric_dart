@@ -20,6 +20,12 @@ Dart package that provide you some geometrics which are useful and with the best
 
 + `angleToRadian(angle)`Convert angle to radian
 
+<h3> Point </h3>
+
++ `pointTranslate(List point, angle, distance)` Translate a point by an angle in degrees and distance
+
++ `pointRotate(List point, angle, [List origin])` Rotate  a point by an angle in degrees around an origin.
+
 
 *As soon as possible, more features will be available.*
 

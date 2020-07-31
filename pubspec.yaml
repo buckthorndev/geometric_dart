@@ -1,6 +1,6 @@
 name: geometric_dart
 description: Simple geometric for dart and flutter. Inspired by a javascript package.
-version: 0.0.1
+version: 0.0.2
 homepage:  https://github.com/buckthorndev/geometric_dart/
 
 environment:
